@@ -1,2 +1,2 @@
 # Ig-downloader
-Instagram Rees,Post,storys, highlight downloader
+Instagram Rees Post storys highlight downloader
